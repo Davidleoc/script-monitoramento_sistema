@@ -28,6 +28,7 @@ Todos os dados são salvos automaticamente em arquivos de log dentro do diretór
 1- Dê permissão de execução ao script:
    ```bash
    chmod +x monitoramento-sistemas.sh
+
 2- Execute com :
 ./monitoramento-sistemas.sh
 Na pasta em que o script esta.
