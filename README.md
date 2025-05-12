@@ -25,11 +25,10 @@ Todos os dados são salvos automaticamente em arquivos de log dentro do diretór
 
 ## ⚙️ Como usar
 
-1- Dê permissão de execução ao script:
+1- Dê permissão de execução ao script e execute:
    ```bash
    chmod +x monitoramento-sistemas.sh
-2- Execute com :
-./monitoramento-sistemas.sh
-Na pasta em que o script esta.
+   ./monitoramento-sistemas.sh
+   Na pasta em que o script esta.
 
 
